@@ -21,8 +21,3 @@ This capstone project focuses on predicting breast cancer using histopathologica
 
 ---
 
-### How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd <repository-folder>
